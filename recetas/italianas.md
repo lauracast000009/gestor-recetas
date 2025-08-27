@@ -3,3 +3,5 @@ Ingredientes:
 -especias
 -albondigas
 -boloñesa
+-sal
+-tomate
