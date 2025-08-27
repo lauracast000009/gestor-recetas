@@ -6,3 +6,7 @@
 4. Birria
 5. Mango enchilado
 6. Sopa de verduras
+
+7. Mazapan
+8. Orchata
+9. Cueritos
