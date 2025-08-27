@@ -6,3 +6,7 @@
 4. Bandeja paisa
 5. Queso con bocadillo
 6. Empanada
+
+7. Chicha
+8. Masato
+9. Jugo de guayaba
